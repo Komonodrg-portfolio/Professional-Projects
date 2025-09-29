@@ -44,7 +44,7 @@ This repository highlights projects I have **led and delivered**, showcasing my 
 <br>
  <img src="images/Station1.png" width="400"/>  <img src="images/Station2.png" width="400"/><br>
 <br>
- Though extremely green and feeling the pressure to see this task to completion, no matter the complexities, there were some challenges.  As my face shows in this pic, I was more then thrilled to brave the elements of winter in wide open work environment, due to ongoing construction.  Cold, to say the very least...🥶  <br>
+ Though extremely green and feeling the pressure to see this task to completion, no matter the complexities, there were some challenges.  As my face shows in this pic, I was more then thrilled to brave the elements of winter in wide open work environment, due to ongoing construction.  Cold, to say the very least...❄️  <br>
 <br>
   <img src="images/Me.png" width="400"/><br>
 <br>
