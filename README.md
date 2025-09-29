@@ -7,6 +7,23 @@ This repository highlights projects I have **led and delivered**, showcasing my 
 
 ## 📂 Featured Projects
 
+### 1. 🏬 HRD2 Site Launch
+**Goal:** HRD2 Site Launch 
+**Highlights:**
+- IT Network / Infrastructure launch of 52,000 sq ft Amazon delivery station.  
+- General Contractor / LVC liason & colaboration as site was concurrently still being completed by various stakeholders.  
+- Oversaw completion of MDF & IDFs and network onboarding of site once confirming backend connectivity.  
+- Through various CMs (Change Management Documentation), co-ordinated junior associates efforts in tertiary tasks to completion.  
+**Tech:** Wazuh, ELK Stack, Sysmon, Linux/Windows Servers.  
+**My Role:** Project Lead, Security Engineer.
+| Tech       | Purpose                              |
+|------------|--------------------------------------|
+| Networking Infrastructure     | Routers, Switches, Firewall, Patch Panels, UPS,            |
+| Cisco IOU / Dynamips | Router & Switch Emulation         |
+| pfSense / OPNsense    | Open-source Firewall/Router          |
+| Linux  / Windows VMs  | Host Simulation                      |
+| Wireshark  | Packet Capture and Analysis          |
+
 ### 1. 🔒 Security Operations & XDR Deployment
 **Goal:** Strengthen enterprise security posture by implementing a modern Extended Detection & Response (XDR) platform.  
 **Highlights:**
