@@ -16,7 +16,7 @@ This repository highlights projects I have **led and delivered**, showcasing my 
 - Oversaw completion of MDF & IDFs and network onboarding of site once confirming backend connectivity.  
 - Through various CMs (Change Management Documentation), co-ordinated junior associates efforts in tertiary tasks to completion.  
  
-**My Role:** Project Lead, Security Engineer.<br>
+**My Role:** Project Lead, Lead Site Engineer.<br>
 <br>
 **Tech:** 
 | Requirements       | Tech / Purpose                              |
