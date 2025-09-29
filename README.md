@@ -27,7 +27,15 @@ This repository highlights projects I have **led and delivered**, showcasing my 
 | Various CMs pre and post build | Setup & implementation of VLANs (address spacing), building access, MDF/IDF admin access, creation of ACLs                      |
 
 <br> 
-
+<p float="center">
+  <img src="images/Kenya/SceneryMountainsTea.png" width="200" />
+  <img src="images/Kenya/Flower4.png" width="200" />
+  <img src="images/Kenya/ScenerySafari22.png" width="200" />
+  <img src="images/Kenya/Flowers.png" width="200" />
+  <img src="images/Kenya/Giraffe.png" width="200" />
+  <img src="images/Kenya/rhinos.png" width="200" />  
+  <img src="images/Kenya/SafariCroc.png" width="200" />
+  <img src="images/Kenya/ScenerySafariHole.png" width="200" />
 
 
 
