@@ -28,14 +28,14 @@ This repository highlights projects I have **led and delivered**, showcasing my 
 
 <br> 
 <p float="center">
-  <img src="images/Kenya/SceneryMountainsTea.png" width="200" />
-  <img src="images/Kenya/Flower4.png" width="200" />
-  <img src="images/Kenya/ScenerySafari22.png" width="200" />
-  <img src="images/Kenya/Flowers.png" width="200" />
-  <img src="images/Kenya/Giraffe.png" width="200" />
-  <img src="images/Kenya/rhinos.png" width="200" />  
-  <img src="images/Kenya/SafariCroc.png" width="200" />
-  <img src="images/Kenya/ScenerySafariHole.png" width="200" />
+  <img src="images/Building.png" width="200" />
+  <img src="images/COMMs.png" width="200" />
+  <img src="images/Demark.png" width="200" />
+  <img src="images/WAP.png" width="200" />
+  <img src="images/Floor2.png" width="200" />
+  <img src="images/IDF.png" width="200" />  
+  <img src="images/Rack1.png" width="200" />
+  <img src="images/Kenya/Rack2.png" width="200" />
 
 
 
