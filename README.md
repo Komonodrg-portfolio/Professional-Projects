@@ -35,7 +35,7 @@ This repository highlights projects I have **led and delivered**, showcasing my 
   <img src="images/Floor2.png" width="200" />
   <img src="images/IDF.png" width="200" />  
   <img src="images/Rack1.png" width="200" />
-  <img src="images/Kenya/Rack2.png" width="200" />
+  <img src="images/Rack2.png" width="200" />
 
 
 
