@@ -31,7 +31,7 @@ This repository highlights projects I have **led and delivered**, showcasing my 
   <img src="images/Building.png" width="200" />
   <img src="images/COMMs.png" width="200" />
   <img src="images/Demark.png" width="200" />
-  <img src="images/WAP.png" width="200" />
+  <img src="images/WAP2.png" width="200" />
   <img src="images/Floor2.png" width="200" />
   <img src="images/IDF.png" width="200" />  
   <img src="images/Rack1.png" width="200" />
