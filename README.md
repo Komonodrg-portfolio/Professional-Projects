@@ -8,21 +8,29 @@ This repository highlights projects I have **led and delivered**, showcasing my 
 ## 📂 Featured Projects
 
 ### 1. 🏬 HRD2 Site Launch
-**Goal:** HRD2 Site Launch 
+**Goal:** Networking infrastructure launch of Amazon-site HRD2 <br>
+<br>
 **Highlights:**
-- IT Network / Infrastructure launch of 52,000 sq ft Amazon delivery station.  
+- IT Network / Infrastructure launch of 52,000 sq ft Amazon delivery station, handling heavy/bulk white glove service.  
 - General Contractor / LVC liason & colaboration as site was concurrently still being completed by various stakeholders.  
 - Oversaw completion of MDF & IDFs and network onboarding of site once confirming backend connectivity.  
 - Through various CMs (Change Management Documentation), co-ordinated junior associates efforts in tertiary tasks to completion.  
-**Tech:** Wazuh, ELK Stack, Sysmon, Linux/Windows Servers.  
-**My Role:** Project Lead, Security Engineer.
-| Tech       | Purpose                              |
+ 
+**My Role:** Project Lead, Security Engineer.<br>
+<br>
+**Tech:** 
+| Requirements       | Tech / Purpose                              |
 |------------|--------------------------------------|
-| Networking Infrastructure     | Routers, Switches, Firewall, Patch Panels, UPS,            |
-| Cisco IOU / Dynamips | Router & Switch Emulation         |
-| pfSense / OPNsense    | Open-source Firewall/Router          |
-| Linux  / Windows VMs  | Host Simulation                      |
-| Wireshark  | Packet Capture and Analysis          |
+| Networking Infrastructure     | Routers, Switches, Firewall, Patch Panels, UPS, Cabling (Fiber, Ethernet)           |
+| AWS Cloud | Backend Site Adoption         |
+| OSHA Safety Standards/Certification  | Proper safety training/equipment required for work on active construction site          |
+| Various CMs pre and post build | Setup & implementation of VLANs (address spacing), building access, MDF/IDF admin access, creation of ACLs                      |
+
+<br> 
+
+
+
+
 
 ### 1. 🔒 Security Operations & XDR Deployment
 **Goal:** Strengthen enterprise security posture by implementing a modern Extended Detection & Response (XDR) platform.  
