@@ -40,9 +40,19 @@ This repository highlights projects I have **led and delivered**, showcasing my 
 <details>
  <summary><h3><em><b>🪂  "One Man's Thoughts..."</b></em></h3></summary>
   <br> 
-<em>Shortly after joing Amazon as an IT Support Engineer II, I was tasked with being assigned the task of launching a sister hub site.  As my first major project assigned with the company, it was a daughting task to say the least.  It was a tall ask from the days of my first intial project.  Remember it like yesterday... putting together a few standup screen stations for floor managers to use during meetings while the world was scrambling to best mitigate the fluidilty of COVID prevention paramaters:
+<em>Shortly after joing Amazon as an IT Support Engineer II, I was tasked with being assigned the task of launching a sister hub site.  As my first major project assigned with the company, it was a daughting task to say the least.  It was a tall ask from the days of my first intial project.  Remember it like yesterday... putting together a few standup screen stations for floor managers to use during meetings while the world was scrambling to best mitigate the fluidilty of COVID prevention paramaters:<br>
+<br>
+ <img src="images/Station1.png" width="400"/>  <img src="images/Station2.png" width="400"/><br>
+<br>
+ Though extremely green and feeling the pressure to see this task to completion, no matter the complexities, there were some challenges.  As my face shows in this pic, I was more then thrilled to brave the elements of winter in wide open work environment, due to ongoing construction.  Cold, to say the very least...🥶  <br>
+<br>
+  <img src="images/Me.png" width="400"/><br>
+<br>
+Despite the challenges, there was an immense gratitude appreciated after getting the site launched successfully.  As my first real world dive into project management that went well beyond just sitting behind a keyboard, the freshness of this endeavor gave me the confidence that I can handle far more then ever imagined and lit the fire I'd take to following projects.<br>
+<br>
+Colleagues, Onward.
+  
 
- <img src="images/Station1.png" width="400"/>  <img src="images/Station2.png" width="400"/>
  
 <b>My Vision:</b><br>
     
