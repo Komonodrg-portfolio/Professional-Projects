@@ -37,7 +37,24 @@ This repository highlights projects I have **led and delivered**, showcasing my 
   <img src="images/Rack1.png" width="200" />
   <img src="images/Rack2.png" width="200" />
 
+<details>
+ <summary><h3><em><b>🪂  "One Man's Thoughts..."</b></em></h3></summary>
+  <br> 
+<em>Shortly after joing Amazon as an IT Support Engineer II, I was tasked with being assigned the task of launching a sister hub site.  As my first major project assigned with the company, it was a daughting task to say the least.  It was a tall ask from the days of my first intial project.  Remember it like yesterday... putting together a few standup screen stations for floor managers to use during meetings while the world was scrambling to best mitigate the fluidilty of COVID prevention paramaters:
 
+ <img src="images/Station1.png" width="400"/>  <img src="images/Station2.png" width="400"/>
+ 
+<b>My Vision:</b><br>
+    
+- <b>To partner or create a foundation that will provide repurposed/decommissioned cellphones / laptops to individuals in remote area</b>
+- <b>Provide scholarships to cover the costs for IT Certifications to individuals showing deep aptitude, skill, and readiness</b><br>
+
+<em>Enjoy these pictures from the trip.
+
+Colleagues,Onward.<br></em>
+
+
+</details>
 
 
 ### 1. 🔒 Security Operations & XDR Deployment
