@@ -99,31 +99,16 @@ Colleagues,Onward.<br></em>
   <br> 
 <em>This project allowed me comfortability by being in my wheelhouse given my time with HP Enterprise Services as a Wireless Network Engineer.  Still, that position was entirely from a NOC, whereas this project allowed for more hands on experience.  Once again, few challenges:<br>
 <br>
- 1)  I would have to revisit this site and consult LVC as condensation would built up in the APs located in the freezer
- 2)  I did say freezer, "Hello the cold, my old friend...❄️"<br> 
  
- <img src="images/Station1.png" width="400"/>  <img src="images/Station2.png" width="400"/><br>
-<br>
- Though extremely green and feeling the pressure to see this task to completion, no matter the complexities, there were some challenges.  As my face shows in this pic, I was more then thrilled to brave the elements of winter in a wide open work environment, due to ongoing construction in December.  Cold, to say the very least...❄️  <br>
-<br>
-  <img src="images/Me.png" width="400"/><br>
-<br>
-Despite the challenges, there was an immense gratitude appreciated after getting the site launched successfully.  As my first real world dive into project management that went well beyond just sitting behind a keyboard, the freshness of this endeavor gave me the confidence that I can handle far more then ever imagined and lit the fire I'd take to following projects.<br>
+ 1)  I would have to revisit this site and consult LVC as condensation would built up in the APs located in the freezer<br> 
+ 2)  I did say freezer, "Hello the cold, my old friend...❄️"<br>
+ <br> 
+  <img src="images/Me2.png" width="400"/><br>
+ <br>
+This project helped shape and further appreciate the scope and scale Amazon operates as a leading enterprise.  The change of scenery from usual home base of RDU1 was fun, despite the early morning CMs.<br>
 <br>
 Colleagues, Onward.
   
-
- 
-<b>My Vision:</b><br>
-    
-- <b>To partner or create a foundation that will provide repurposed/decommissioned cellphones / laptops to individuals in remote area</b>
-- <b>Provide scholarships to cover the costs for IT Certifications to individuals showing deep aptitude, skill, and readiness</b><br>
-
-<em>Enjoy these pictures from the trip.
-
-Colleagues,Onward.<br></em>
-
-
 </details>
 
 ---
