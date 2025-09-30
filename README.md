@@ -151,8 +151,8 @@ Colleagues, Onward.</em>
   <br> 
 <em>Being the main Amazon hub for the RTP area, the nearly 650,000 sq ft building provided a good way to stay get in better shape as I used to average 10,000 - 15,000 steps a day there while ensuring site operation.  Add the presure of getting it all back up and running after an outage, and even more the of a physical toll was felt by end of shift... whew.<br>
 <br>
- After implementing these efforts, I was glad to be able to save on efforts (and also early morning on-call drives) by being able run the scripts remotely, with site personnel being able to confirm funcionality locally.  My efforts being adopted Enterprise wide, icing on the cake!  Win-Win situation, all by a more providing and coordinating a more efficient path to green.
-
+ After implementing these efforts, I was glad to be able to save on efforts (and also early morning on-call drives) by being able run the scripts remotely, with site personnel being able to confirm funcionality locally.  My efforts being adopted Enterprise wide, icing on the cake!  Win-Win situation, all by providing and coordinating a more efficient path to green.<br>
+<br>
  Colleagues, Onward.</em>
 
  </details>
