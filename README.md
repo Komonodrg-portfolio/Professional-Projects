@@ -1,13 +1,17 @@
 # 💻 IT Project Portfolio
 
-Welcome to my IT Portfolio!  
+Welcome to my IT Project Management Portfolio!<br>
+<br>
 This repository highlights projects I have **led and delivered**, showcasing my skills in IT infrastructure, cybersecurity, cloud solutions, and cross-functional leadership. Each project entry includes a description, key technologies, and my role in its success.
+<br>
+<br>
+>Technology is nothing. What’s important is that you have faith in people.” — Steve Jobs <br>  
 
 ---
 
 ## 📂 Featured Projects
 
-### 1)  🏬  Site Launch (HRD2)
+### 1.  🏬  Site Launch (HRD2)
 **Goal:** Networking infrastructure launch of Amazon-site HRD2 <br>
 <br>
 **Highlights:**
@@ -107,59 +111,64 @@ Colleagues,Onward.<br></em>
  <br>
 This project helped shape and further appreciate the scope and scale Amazon operates as a leading enterprise.  The change of scenery from usual home base of RDU1 was fun, despite the early morning CMs.<br>
 <br>
-Colleagues, Onward.
+Colleagues, Onward.</em>
   
 </details>
 
 ---
 ---
 
-### 2. ☁️ Cloud Migration & Optimization
-**Goal:** Migrate on-premise infrastructure to a hybrid **AWS Cloud** environment.  
+### 3. 🤖 AR Station Recovery ([RDU1](https://www.newsobserver.com/news/business/article309086680.html))
+**Goal:** Leverage automation to drastically shorten AR (Amazon Robotics) recovery time after power outage / network disruption<br>
+<br>
 **Highlights:**
-- Led migration of 50+ VMs and databases to AWS EC2/RDS.  
-- Implemented **cost optimization** reducing cloud spend by 22%.  
-- Designed and tested disaster recovery strategy.  
-- Coordinated with DevOps team for CI/CD integration.  
-**Tech:** AWS (EC2, RDS, S3, IAM), Terraform, Ansible.  
-**My Role:** Project Manager & Cloud Architect.
+- Reduced AR Floor recovery time by 66% (from 6hrs down to 2hrs).  
+- Showcased abilty to liason with numerous departments in order to ensure complete functionality of stations.  
+- Team wiki page I created illustrating our process was adopted for use throughout all of Amazon IT Enterprise  
+ 
+**My Role:** Project Lead - Coordinator, IT Support Engineer II<br>
+<br>
+**Tech:** 
+| Requirements       | Tech / Purpose                              |
+|------------|--------------------------------------|
+| Powershell & Python scripting    | Used for backend remoting and resetting of statons, systematically in sequence          |
+| Leadership | Led efforts via various teams (Operations, RME - Robotics Engineers, Floor Management        |
+| Wiki Generation   | Markdown used for creation and enterprise proliferation of our process          |
 
----
+<br> 
+<p float="center">
+  <img src="images/Station.png" width="200" />
+  <img src="images/RackLights.png" width="200" />
+  <img src="images/OverScan.png" width="200" />
+  <img src="images/Cognex.png" width="200" />
+  <img src="images/RackSetup.png" width="200" />
+  <img src="images/StationCabinet2.png" width="200" />
+  <img src="images/StationCabinet.png" width="200" />
+  <img src="images/Floorplan.png" width="200" />
+ 
+<details>
+ <summary><h3><em><b>🪂  "One Man's Thoughts..."</b></em></h3></summary>
+  <br> 
+<em>Being the main Amazon hub for the RTP area, the nearly 650,000 sq ft building provided a good way to stay get in better shape as I used to average 10,000 - 15,000 steps a day there while ensuring site operation.  Add the presure of getting it all back up and running after an outage, and even more the of a physical toll was felt by end of shift... whew.<br>
+<br>
+ After implementing these efforts, I was glad to be able to save on efforts (and also early morning on-call drives) by being able run the scripts remotely, with site personnel being able to confirm funcionality locally.  My efforts being adopted Enterprise wide, icing on the cake!  Win-Win situation, all by a more providing and coordinating a more efficient path to green.
 
-### 3. 🛡️ Network Segmentation for Compliance
-**Goal:** Improve security and meet compliance (NIST CSF) through **network segmentation**.  
-**Highlights:**
-- Designed VLAN segmentation across critical servers.  
-- Implemented zero-trust principles.  
-- Passed internal audit with **zero high-risk findings**.  
-**Tech:** Cisco IOS, Palo Alto Firewalls, VMware ESXi.  
-**My Role:** Lead Network Engineer.
+ Colleagues, Onward.</em>
 
----
+ </details>
 
-### 4. 📊 IT Operations Dashboard
-**Goal:** Provide executives with **real-time IT visibility**.  
-**Highlights:**
-- Built dashboards for uptime, incidents, and security alerts.  
-- Automated log ingestion pipelines.  
-- Reduced incident response times by 15%.  
-**Tech:** Grafana, Prometheus, Elastic, PowerBI.  
-**My Role:** Technical Lead, Dashboard Architect.
+<h2> 🤳 Connect with me:</h2>
 
----
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Tik Tok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-## 🏆 Skills Demonstrated
-- **Leadership:** Cross-team collaboration, mentoring, training.  
-- **Cybersecurity:** SIEM, XDR, network security, compliance.  
-- **Cloud & DevOps:** AWS, Terraform, CI/CD pipelines.  
-- **IT Operations:** Monitoring, automation, optimization.  
+[tiktok]: https://tiktok.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor 
+<br>
+<br>
 
----
-
-## 📫 Connect
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **GitHub Projects:** Explore repos for code samples, IaC, and configs.  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
----
 ⭐ *If you find this portfolio useful or inspiring, consider giving it a star!*
