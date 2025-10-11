@@ -169,10 +169,10 @@ Colleagues, Onward.</em>
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[tiktok]: https://tiktok.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor 
+[tiktok]: https://tiktok.com/upcoming...
+[youtube]: https://www.youtube.com/@EvenSteveTech
+[instagram]: https://www.instagram.com/upcoming...
+[linkedin]: https://www.linkedin.com/in/steven-komono-71790197/
 <br>
 <br>
 
