@@ -162,6 +162,31 @@ Colleagues, Onward.</em>
 
  </details>
 
+ ### 4. 🤖 Thermal Camera Setup / Installation ([RDU1](https://www.newsobserver.com/news/business/article309086680.html))
+**Goal:** To comply with enterprise access & COVID mitigation standards, implement Thermal Camera Access Control into facility<br>
+<br>
+**Highlights:**
+- Reduced AR Floor recovery time by 66% (from 6hrs down to 2hrs).  
+- Showcased abilty to liason with numerous departments in order to ensure complete functionality of facility access control.  
+- Team wiki page documentation illustrating installation (lvc liason), system management, and issue remediation.  
+ 
+**My Role:** Project Lead - Coordinator, IT Support Engineer II<br>
+<br>
+**Tech:** 
+| Requirements       | Tech / Purpose                              |
+|------------|--------------------------------------|
+| Admin Permission    | Used for allowance to administer system          |
+| Leadership | Led efforts via various teams (Operations, RME - Robotics Engineers, Floor Management        |
+| Wiki Generation   | Markdown used for creation and enterprise proliferation of our process          |
+
+<br> 
+<p float="center">
+  <img src="images/Thermal1.png" width="200" />
+  <img src="images/Thermal2.png" width="200" />
+  <img src="images/Thermal3.png" width="200" />
+ 
+<details>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
