@@ -161,12 +161,15 @@ Colleagues, Onward.</em>
  Colleagues, Onward.</em>
 
  </details>
+ 
+ ---
+ ---
 
- ### 4. 🤖 Thermal Camera Setup / Installation ([RDU1](https://www.newsobserver.com/news/business/article309086680.html))
+ ### 4. 🌡️ Thermal Camera Setup / Installation ([RDU1](https://www.newsobserver.com/news/business/article309086680.html))
 **Goal:** To comply with enterprise access & COVID mitigation standards, implement Thermal Camera Access Control into facility<br>
 <br>
 **Highlights:**
-- Reduced AR Floor recovery time by 66% (from 6hrs down to 2hrs).  
+- Proactively assisted in building access control and security station employeed temperature checks🌡️.  
 - Showcased abilty to liason with numerous departments in order to ensure complete functionality of facility access control.  
 - Team wiki page documentation illustrating installation (lvc liason), system management, and issue remediation.  
  
@@ -185,7 +188,8 @@ Colleagues, Onward.</em>
   <img src="images/Thermal2.png" width="200" />
   <img src="images/Thermal3.png" width="200" />
  
-<details>
+---
+---
 
 <h2> 🤳 Connect with me:</h2>
 
