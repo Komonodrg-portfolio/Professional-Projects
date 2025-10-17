@@ -169,7 +169,7 @@ Colleagues, Onward.</em>
 **Goal:** To comply with enterprise access & COVID mitigation standards, implement Thermal Camera Access Control into facility<br>
 <br>
 **Highlights:**
-- Proactively assisted in building access control and security station employeed temperature checks🌡️.  
+- Proactively assisted in building access control and security station employeed temperature checks.  
 - Showcased abilty to liason with numerous departments in order to ensure complete functionality of facility access control.  
 - Team wiki page documentation illustrating installation (lvc liason), system management, and issue remediation.  
  
