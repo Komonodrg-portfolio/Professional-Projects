@@ -184,9 +184,9 @@ Colleagues, Onward.</em>
 
 <br> 
 <p float="center">
-  <img src="images/Thermal1.png" width="200" />
-  <img src="images/Thermal2.png" width="200" />
-  <img src="images/Thermal3.png" width="200" />
+  <img src="images/Thermal1.png" width="300" />
+  <img src="images/Thermal2.png" width="300" />
+  <img src="images/Thermal3.png" width="300" />
  
 ---
 ---
